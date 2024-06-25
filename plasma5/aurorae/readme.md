@@ -1,4 +1,5 @@
 # Aurorae themes
+these are aurorae themes so you'll need kwin...
 copy the folder of Your Choosing into `~/.local/share/aurorae/themes/`
 
 ## previews
